@@ -55,6 +55,7 @@ Assista a uma demonstração completa do projeto Ecologic Solaris em funcionamen
 ### Screenshots
 
 ![Tela da Loja do Ecologic Solaris](/assets/store-screen.png)
+![Tela de Perfil do Usuário](/assets/profile-screen.png)
 
 ### Licença
 
