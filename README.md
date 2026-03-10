@@ -6,6 +6,8 @@ Este projeto apresenta uma plataforma web inovadora focada em energia solar, des
 
 **Importante:** Este não é um projeto de estudo ou demonstração acadêmica. O Ecologic Solaris foi desenvolvido como uma **aplicação prática solicitada por um cliente real**, o que atesta a sua relevância comercial e a minha capacidade de entregar soluções funcionais e de valor no mercado.
 
+**Case de Sucesso:** A confiança no trabalho foi tamanha que, antes mesmo do lançamento oficial, o cliente solicitou uma **ampliação do projeto**, adicionando novas funcionalidades e investindo um valor adicional de **R$ 20.000,00**. Isso demonstra o reconhecimento do valor e do potencial da solução entregue.
+
 ### Tecnologias Utilizadas
 
 O desenvolvimento do Ecologic Solaris foi realizado utilizando as seguintes tecnologias:
