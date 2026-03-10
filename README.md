@@ -4,6 +4,8 @@
 
 Este projeto apresenta uma plataforma web inovadora focada em energia solar, desenvolvida para demonstrar a capacidade de criar soluções **Full Stack** com tecnologias modernas e eficientes. O Ecologic Solaris permite aos usuários controlar a produção de energia em tempo real, maximizar ganhos e contribuir para um futuro mais sustentável.
 
+**Importante:** Este não é um projeto de estudo ou demonstração acadêmica. O Ecologic Solaris foi desenvolvido como uma **aplicação prática solicitada por um cliente real**, o que atesta a sua relevância comercial e a minha capacidade de entregar soluções funcionais e de valor no mercado.
+
 ### Tecnologias Utilizadas
 
 O desenvolvimento do Ecologic Solaris foi realizado utilizando as seguintes tecnologias:
