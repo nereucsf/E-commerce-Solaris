@@ -44,22 +44,6 @@ Você pode explorar a aplicação web Ecologic Solaris através do seguinte link
 
 (Em breve: Adicionar capturas de tela da aplicação em funcionamento)
 
-### Como Rodar Localmente (Instruções para Recrutadores)
-
-Para rodar este projeto localmente, siga os passos abaixo:
-
-1.  **Clone o repositório**:
-    ```bash
-    git clone https://github.com/seu-usuario/E-commerce-Solaris.git
-    cd E-commerce-Solaris
-    ```
-2.  **Instale as dependências** (se houver, para projetos mais complexos com `npm` ou `yarn`)
-3.  **Configure o Firebase**: Crie um projeto no Firebase e configure as credenciais no seu ambiente local.
-4.  **Inicie a aplicação**:
-    ```bash
-    # Exemplo: Abrir o arquivo index.html no navegador ou usar um servidor local
-    ```
-
 ### Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
