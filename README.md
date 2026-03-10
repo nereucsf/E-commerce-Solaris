@@ -14,6 +14,19 @@ O desenvolvimento do Ecologic Solaris foi realizado utilizando as seguintes tecn
     *   **Cloud Firestore**: Banco de dados NoSQL para armazenamento e sincronização de dados em tempo real.
     *   **Cloud Storage for Firebase**: Armazenamento de arquivos e mídias.
 
+### Decisões Técnicas e Justificativas
+
+A escolha das tecnologias para o Ecologic Solaris foi estratégica, visando agilidade no desenvolvimento, escalabilidade e robustez para uma aplicação web moderna:
+
+*   **HTML, CSS e JavaScript (Frontend)**: Optou-se por uma abordagem de desenvolvimento web "Vanilla" para o frontend, utilizando HTML para a estrutura, CSS para estilização e JavaScript puro para a lógica interativa. Esta escolha permite um controle granular sobre o desempenho e a otimização, além de demonstrar proficiência nos fundamentos do desenvolvimento web sem a abstração de grandes frameworks. É ideal para projetos que buscam leveza e carregamento rápido.
+
+*   **Google Firebase (Backend como Serviço - BaaS)**: O Firebase foi selecionado como a espinha dorsal do backend devido à sua suíte completa de serviços integrados, que aceleram significativamente o desenvolvimento e oferecem escalabilidade automática. As principais razões para sua escolha incluem:
+    *   **Firebase Authentication**: Proporciona um sistema de autenticação seguro e fácil de implementar, suportando múltiplos provedores de login e gerenciamento de usuários, o que é crucial para qualquer aplicação com acesso restrito.
+    *   **Cloud Firestore**: Escolhido como banco de dados NoSQL por sua capacidade de sincronização de dados em tempo real e escalabilidade horizontal. Isso é particularmente vantajoso para o dashboard de energia, onde as atualizações de produção precisam ser refletidas instantaneamente para o usuário, garantindo uma experiência fluida e responsiva.
+    *   **Cloud Storage for Firebase**: Essencial para o armazenamento de arquivos de mídia (como imagens de perfil ou documentos relacionados à energia solar), oferecendo uma solução robusta e escalável para gerenciar conteúdo gerado pelo usuário ou da aplicação.
+
+Esta combinação de tecnologias permite focar na experiência do usuário e nas funcionalidades do negócio, enquanto o Firebase gerencia a infraestrutura de backend, autenticação e banco de dados de forma eficiente e segura.
+
 ### Funcionalidades Principais
 
 *   **Autenticação de Usuários**: Sistema de login e registro seguro via Firebase Authentication.
@@ -37,8 +50,8 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/ecologic-solaris.git
-    cd ecologic-solaris
+    git clone https://github.com/seu-usuario/E-commerce-Solaris.git
+    cd E-commerce-Solaris
     ```
 2.  **Instale as dependências** (se houver, para projetos mais complexos com `npm` ou `yarn`)
 3.  **Configure o Firebase**: Crie um projeto no Firebase e configure as credenciais no seu ambiente local.
