@@ -44,6 +44,12 @@ Você pode explorar a aplicação web Ecologic Solaris através do seguinte link
 
 [https://ecologicsolaris.web.app/app](https://ecologicsolaris.web.app/app)
 
+### Vídeo de Demonstração
+
+Assista a uma demonstração completa do projeto Ecologic Solaris em funcionamento:
+
+[![Demonstração Ecologic Solaris](https://img.youtube.com/vi/uDs_N85myT0/0.jpg)](https://www.youtube.com/watch?v=uDs_N85myT0)
+
 ### Screenshots
 
 (Em breve: Adicionar capturas de tela da aplicação em funcionamento)
